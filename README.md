@@ -553,8 +553,4 @@
 
       html2pdf().set(opt).from(element).save().then(() => {
         element.style.display = 'none';
-      });
-    }
-
-    renderProducts();
-  </script>
+    
