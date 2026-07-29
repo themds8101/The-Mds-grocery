@@ -1,8 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The MDS Grocery</title>
   <!-- html2pdf.js for Invoice PDF Generation -->
